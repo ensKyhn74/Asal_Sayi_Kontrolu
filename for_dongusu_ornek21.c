@@ -38,7 +38,7 @@ int main()
   
   else // 2'den küçük girildi ise
   {
-   printf("%d asal sayi degildir",sayi);      
+    printf("%d asal sayi degildir",sayi);      
   }
 
   return 0;
