@@ -1,0 +1,1 @@
+# Asal_Sayi_Kontrolu
